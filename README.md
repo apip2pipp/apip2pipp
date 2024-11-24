@@ -1,6 +1,6 @@
-[![MasterHead](https://media.tenor.com/Yzeh4Z4UQuAAAAAM/viciadoemcodar.gif)](https://rishavchanda.io)
+[![MasterHead][(https://media.tenor.com/Yzeh4Z4UQuAAAAAM/viciadoemcodar.gif)](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)]
 
-<h1 align="center">Hi 👋, I'm Afif KHOZYIDZAKI</h1>
+<h1 align="center">Hi 👋, I'm Afif KHOSYIDZAKI</h1>
 <h2 align="center">I am a Business Information System student at Politeknik Negeri Malang who is starting my journey in the world of programming. With a great interest in technology and programming logic, I am excited to learn programming languages such as Python, JavaScript, and others. I believe that programming is an essential skill that can create innovative solutions in various fields. My goal now is to master the basics of coding, build a portfolio of small projects, and deepen my knowledge to become a software developer.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
