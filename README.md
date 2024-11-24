@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Afif KHOZYIDZAKI</h1>
 <h2 align="center">I am a Business Information System student at Politeknik Negeri Malang who is starting my journey in the world of programming. With a great interest in technology and programming logic, I am excited to learn programming languages such as Python, JavaScript, and others. I believe that programming is an essential skill that can create innovative solutions in various fields. My goal now is to master the basics of coding, build a portfolio of small projects, and deepen my knowledge to become a software developer.</h2>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611lck8k6e8icoe7lno2nh3xe0brfkf6l2cqnergoeb&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 
 
